@@ -1,2 +1,4 @@
-# Cryptocurrency_price
-Source code for price data manipulation
+# Cryptocurrency
+Data Analysis(Price prediction etc) for cryptocurrencies 
+![alt text](./BTC_USD.png)
+
